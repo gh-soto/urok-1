@@ -1,0 +1,36 @@
+﻿td {
+	text-align: center;
+	width: 20px;
+	height: 20px;
+}
+
+th {
+	text-align: center;
+	width: 20px;
+	height: 20px;
+}
+
+img {
+	margin: 20px;
+}
+
+li {
+	font-style: italic;
+	font-weight: bold;
+	display: inline;
+}
+
+#title-5 {
+	position: fixed top;
+	background-color: #cccccc;
+	
+
+
+}
+
+.z5 {
+	width: 82%;
+	padding: 2%;
+	border: solid 1px;
+	margin: auto;
+}
